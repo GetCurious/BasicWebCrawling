@@ -12,5 +12,5 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-####### optional
+###### optional
 * use `Brave Browser` for smoother Selenium
